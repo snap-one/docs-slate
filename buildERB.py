@@ -59,10 +59,11 @@ language_tabs:
   - lua
 
 toc_footers:
+  - <a href='https://github.com/snap-one/docs-driverworks'>DriverWorks GitHub Home</a>
   - <a href='https://snap-one.github.io/docs-driverworks-introduction/'>An Introduction to DriverWorks</a>
   - <a href='https://snap-one.github.io/docs-driverworks-fundamentals/'>DriverWorks Fundamentals Guide</a>
   - <a href='https://snap-one.github.io/docs-driverworks-api/'>DriverWorks API Reference Guide</a>
-  - <a href='https://github.com/snap-one/docs-driverworks'>DriverWorks GitHub Home</a>
+  - <a href='https://snap-one.github.io/docs-driverworks-xml/'>DriverWorks XML Reference</a>
   - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
 search: true
